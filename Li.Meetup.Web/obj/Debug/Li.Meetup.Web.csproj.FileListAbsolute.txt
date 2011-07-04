@@ -1,0 +1,21 @@
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web\bin\Li.Meetup.Web.dll
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web\bin\Li.Meetup.Web.pdb
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web\bin\MeetupLibrary.dll
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web\bin\MeetupLibrary.pdb
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web\obj\Debug\Li.Meetup.Web.dll
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web\obj\Debug\Li.Meetup.Web.pdb
+C:\Source\Meetup\Li.Meetup.Web\bin\Li.Meetup.Web.dll
+C:\Source\Meetup\Li.Meetup.Web\bin\Li.Meetup.Web.pdb
+C:\Source\Meetup\Li.Meetup.Web\bin\MeetupLibrary.dll
+C:\Source\Meetup\Li.Meetup.Web\bin\MeetupLibrary.pdb
+C:\Source\Meetup\Li.Meetup.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\Meetup\Li.Meetup.Web\obj\Debug\Li.Meetup.Web.dll
+C:\Source\Meetup\Li.Meetup.Web\obj\Debug\Li.Meetup.Web.pdb
+C:\Code\sempf_meetupapi\Li.Meetup.Web\bin\Li.Meetup.Web.dll
+C:\Code\sempf_meetupapi\Li.Meetup.Web\bin\Li.Meetup.Web.pdb
+C:\Code\sempf_meetupapi\Li.Meetup.Web\bin\MeetupLibrary.dll
+C:\Code\sempf_meetupapi\Li.Meetup.Web\bin\MeetupLibrary.pdb
+C:\Code\sempf_meetupapi\Li.Meetup.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\sempf_meetupapi\Li.Meetup.Web\obj\Debug\Li.Meetup.Web.dll
+C:\Code\sempf_meetupapi\Li.Meetup.Web\obj\Debug\Li.Meetup.Web.pdb

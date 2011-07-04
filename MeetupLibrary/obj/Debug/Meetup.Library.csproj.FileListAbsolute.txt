@@ -1,0 +1,5 @@
+C:\Code\sempf_meetupapi\MeetupLibrary\bin\Debug\MeetupLibrary.dll
+C:\Code\sempf_meetupapi\MeetupLibrary\bin\Debug\MeetupLibrary.pdb
+C:\Code\sempf_meetupapi\MeetupLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\sempf_meetupapi\MeetupLibrary\obj\Debug\MeetupLibrary.dll
+C:\Code\sempf_meetupapi\MeetupLibrary\obj\Debug\MeetupLibrary.pdb

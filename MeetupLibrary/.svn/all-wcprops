@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/sempf_meetupapi/!svn/ver/2/MeetupLibrary
+END
+Group.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sempf_meetupapi/!svn/ver/1/MeetupLibrary/Group.cs
+END
+MeetupLibrary.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sempf_meetupapi/!svn/ver/1/MeetupLibrary/MeetupLibrary.csproj
+END
+Organizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sempf_meetupapi/!svn/ver/2/MeetupLibrary/Organizer.cs
+END
+Member.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sempf_meetupapi/!svn/ver/1/MeetupLibrary/Member.cs
+END
+Static.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sempf_meetupapi/!svn/ver/2/MeetupLibrary/Static.cs
+END
+Members.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sempf_meetupapi/!svn/ver/2/MeetupLibrary/Members.cs
+END

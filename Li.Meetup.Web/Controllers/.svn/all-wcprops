@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sempf_meetupapi/!svn/ver/2/Li.Meetup.Web/Controllers
+END
+MemberController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sempf_meetupapi/!svn/ver/2/Li.Meetup.Web/Controllers/MemberController.cs
+END
+HomeController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sempf_meetupapi/!svn/ver/1/Li.Meetup.Web/Controllers/HomeController.cs
+END
+AccountController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sempf_meetupapi/!svn/ver/1/Li.Meetup.Web/Controllers/AccountController.cs
+END

@@ -1,0 +1,30 @@
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.Tests.dll.config
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.Tests.dll
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.Tests.pdb
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.dll
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web.Tests\bin\Debug\MeetupLibrary.dll
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.pdb
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web.Tests\bin\Debug\MeetupLibrary.pdb
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web.Tests\obj\Debug\Li.Meetup.Web.Tests.dll
+C:\Users\sempf\Documents\Visual Studio 2010\Projects\L.I\LiMembership\Li.Meetup.Web.Tests\obj\Debug\Li.Meetup.Web.Tests.pdb
+C:\Source\Meetup\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.Tests.dll.config
+C:\Source\Meetup\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.Tests.dll
+C:\Source\Meetup\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.Tests.pdb
+C:\Source\Meetup\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.dll
+C:\Source\Meetup\Li.Meetup.Web.Tests\bin\Debug\MeetupLibrary.dll
+C:\Source\Meetup\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.pdb
+C:\Source\Meetup\Li.Meetup.Web.Tests\bin\Debug\MeetupLibrary.pdb
+C:\Source\Meetup\Li.Meetup.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\Meetup\Li.Meetup.Web.Tests\obj\Debug\Li.Meetup.Web.Tests.dll
+C:\Source\Meetup\Li.Meetup.Web.Tests\obj\Debug\Li.Meetup.Web.Tests.pdb
+C:\Code\sempf_meetupapi\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.Tests.dll.config
+C:\Code\sempf_meetupapi\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.Tests.dll
+C:\Code\sempf_meetupapi\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.Tests.pdb
+C:\Code\sempf_meetupapi\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.dll
+C:\Code\sempf_meetupapi\Li.Meetup.Web.Tests\bin\Debug\MeetupLibrary.dll
+C:\Code\sempf_meetupapi\Li.Meetup.Web.Tests\bin\Debug\Li.Meetup.Web.pdb
+C:\Code\sempf_meetupapi\Li.Meetup.Web.Tests\bin\Debug\MeetupLibrary.pdb
+C:\Code\sempf_meetupapi\Li.Meetup.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\sempf_meetupapi\Li.Meetup.Web.Tests\obj\Debug\Li.Meetup.Web.Tests.dll
+C:\Code\sempf_meetupapi\Li.Meetup.Web.Tests\obj\Debug\Li.Meetup.Web.Tests.pdb

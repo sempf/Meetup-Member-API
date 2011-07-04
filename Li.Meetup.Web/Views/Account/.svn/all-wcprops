@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sempf_meetupapi/!svn/ver/1/Li.Meetup.Web/Views/Account
+END
+ChangePassword.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sempf_meetupapi/!svn/ver/1/Li.Meetup.Web/Views/Account/ChangePassword.aspx
+END
+LogOn.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sempf_meetupapi/!svn/ver/1/Li.Meetup.Web/Views/Account/LogOn.aspx
+END
+ChangePasswordSuccess.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sempf_meetupapi/!svn/ver/1/Li.Meetup.Web/Views/Account/ChangePasswordSuccess.aspx
+END
+Register.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sempf_meetupapi/!svn/ver/1/Li.Meetup.Web/Views/Account/Register.aspx
+END

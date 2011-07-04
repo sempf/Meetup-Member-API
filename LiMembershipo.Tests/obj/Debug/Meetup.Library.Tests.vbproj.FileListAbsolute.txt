@@ -1,0 +1,9 @@
+C:\Code\sempf_meetupapi\LiMembershipo.Tests\bin\Debug\LiMembershipo.Tests.dll
+C:\Code\sempf_meetupapi\LiMembershipo.Tests\bin\Debug\LiMembershipo.Tests.pdb
+C:\Code\sempf_meetupapi\LiMembershipo.Tests\bin\Debug\LiMembershipo.Tests.xml
+C:\Code\sempf_meetupapi\LiMembershipo.Tests\bin\Debug\MeetupLibrary.dll
+C:\Code\sempf_meetupapi\LiMembershipo.Tests\bin\Debug\MeetupLibrary.pdb
+C:\Code\sempf_meetupapi\LiMembershipo.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\sempf_meetupapi\LiMembershipo.Tests\obj\Debug\LiMembershipo.Tests.dll
+C:\Code\sempf_meetupapi\LiMembershipo.Tests\obj\Debug\LiMembershipo.Tests.xml
+C:\Code\sempf_meetupapi\LiMembershipo.Tests\obj\Debug\LiMembershipo.Tests.pdb

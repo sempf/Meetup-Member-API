@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LiMembershipo.Tests
+</name>
+</assembly>
+<members>
+<member name="P:LiMembershipo.Tests.UnitTest1.TestContext">
+	<summary>
+Gets or sets the test context which provides
+information about and functionality for the current test run.
+</summary>
+</member><member name="P:LiMembershipo.Tests.MembersTest.TestContext">
+	<summary>
+Gets or sets the test context which provides
+information about and functionality for the current test run.
+</summary>
+</member><member name="M:LiMembershipo.Tests.MembersTest.MembersConstructorTest">
+	<summary>
+A test for Members Constructor
+</summary>
+</member><member name="T:LiMembershipo.Tests.MembersTest">
+	<summary>
+This is a test class for MembersTest and is intended
+to contain all MembersTest Unit Tests
+</summary>
+</member>
+</members>
+</doc>

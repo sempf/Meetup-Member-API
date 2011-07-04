@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sempf_meetupapi/!svn/ver/1/Li.Meetup.Web/Views/Shared
+END
+Error.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sempf_meetupapi/!svn/ver/1/Li.Meetup.Web/Views/Shared/Error.aspx
+END
+LogOnUserControl.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sempf_meetupapi/!svn/ver/1/Li.Meetup.Web/Views/Shared/LogOnUserControl.ascx
+END
+Site.Master
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sempf_meetupapi/!svn/ver/1/Li.Meetup.Web/Views/Shared/Site.Master
+END
