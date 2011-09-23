@@ -25,5 +25,3 @@ namespace MeetupLibrary
         }
     }
 }
-
-//cindy willis 1800-257-6006 x11634
